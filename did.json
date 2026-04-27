@@ -6,9 +6,9 @@
   "id": "did:web:13siddhu.github.io:did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkfj4jjvc2zszvU51PEQumm893HJu2zf4kVbWK1ARDyLDd",
+      "publicKeyMultibase": "z6Mkmezm8KJYkHZ1ReN15Tod13QTd3mujQyvYaM7VkND6tV9",
       "controller": "did:web:13siddhu.github.io:did",
-      "id": "did:web:13siddhu.github.io:did#lsuqFWfqtAZnzP--5CSv45rCrm0JMQ0nAFg3nHdMRfw",
+      "id": "did:web:13siddhu.github.io:did#QWyP65q3z6xPjmJ8wa5gVugWA7Zi_rd207aaWEZHep4",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
