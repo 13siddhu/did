@@ -6,7 +6,7 @@
   "id": "did:web:13siddhu.github.io:did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkmezm8KJYkHZ1ReN15Tod13QTd3mujQyvYaM7VkND6tV9",
+      "publicKeyMultibase": "z6MknyQqGnivrhujcCq3GqN6ThAjxTLsPhCXHCgN1hfqa5Vv",
       "controller": "did:web:13siddhu.github.io:did",
       "id": "did:web:13siddhu.github.io:did#QWyP65q3z6xPjmJ8wa5gVugWA7Zi_rd207aaWEZHep4",
       "type": "Ed25519VerificationKey2020",
